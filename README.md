@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">My name is Aranya Pal from Kolkata, India. and currently I'm a B. Tech student.</h4>
+<h4 align="left">My name is Aranya Pal from Kolkata, India and currently I'm a B. Tech student.</h4>
 
 ###
 
