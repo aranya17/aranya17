@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">My name is Aranya Pal from Kolkata, India and currently I'm a B. Tech student.</h4>
+<h4 align="left">My name is Aranya Pal from Kolkata, India. and currently I'm a B. Tech student.</h4>
 
 ###
 
@@ -58,3 +58,10 @@
 
 ###
 
+<div align="left">
+  <a href="www.linkedin.com/in/aranya-pal1710" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
